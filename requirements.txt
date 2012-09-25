@@ -1,0 +1,9 @@
+# web
+django
+gunicorn
+
+# python port of foreman
+honcho
+
+# postgresql
+psycopg2
